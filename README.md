@@ -2,8 +2,15 @@
 
 #JavaScript #React #Web3
 
-- 🌱 I’m currently learning at Ucamp, Soy Henry, Udemy and Platzi.
-- 📫 How to reach me:
+🟣 I’m currently learning at:
+
+-  Ucamp, Soy Henry, Udemy and Platzi.
+
+- Go to my blog to learn something new (Spanish)
+✨ 
+
+-
+🟣 you can reach me:
 
 Twitter: Melibis@MeliB_is
 
