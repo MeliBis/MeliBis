@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Meli Barrios
 
 #JavaScript #React #Web3
+-
 
 🟣 I’m currently learning at:
 
@@ -10,11 +11,34 @@
 ✨ 
 
 -
-🟣 you can reach me:
+🟣 You can reach me:
 
 Twitter: Melibis@MeliB_is
 
 FaceBook Page: MeliB is
+
+                                                     
+⚒   My Development Toolbelt:
+-
+- HTML
+- Css
+- JavaScript
+- React
+- Node.JS
+- Express
+- Firebase
+- MongoDB
+
+
+My proyects:
+-
+Personal Blog
+Blog creat with 
+Repository here
+
+Basic Landing Page
+Repository here
+                                                     
 
 
 <!--
