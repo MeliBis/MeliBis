@@ -5,7 +5,7 @@
 
 🟣 I’m currently learning at:
 
--  Ucamp, Soy Henry, Udemy and Platzi.
+-  Ucamp, Soy Henry, Udemy, Platzi and Código Facilito.
 
 - Go to my blog to learn something new (Spanish)
 ✨ 
